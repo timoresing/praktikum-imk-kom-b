@@ -1,4 +1,4 @@
 aku ga puasa, aku mokel
 halo ini tambahan
-ini tambahan dari GitHub
-contoh merge (local)
+ini tambahan dari github
+commit github
